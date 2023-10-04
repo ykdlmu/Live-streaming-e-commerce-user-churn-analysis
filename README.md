@@ -12,7 +12,7 @@
 缺失值处理是对数据中的空值进行删除或者填充，简单的处理方法有直接删除、均值填充、中位数填充、众数填充和特殊值填充，更复杂的有插值填充、Knn均值填充等，这里不进行介绍。常用的缺失值处理方法如下：
     <div align=center><img src="https://github.com/ykdlmu/Live-streaming-e-commerce-user-churn-analysis/assets/146841770/7e7a4333-67a0-4caf-8005-79e7217013c5" width="800" height="300" /></div><br>
    排序后，如有缺失值，会出现在预览区的第一条数据中。观察到需要进行缺失值填充的字段有：使用平台的时间、仓库到顾客地址的距离、使用APP时间、上月订单数量、订单数较去年增加、上月使用的优惠券数量、距上次下单天数。 具体的缺失值处理如下：
-<div align=center><img src="https://github.com/ykdlmu/Live-streaming-e-commerce-user-churn-analysis/assets/146841770/6159712b-2551-49bf-856d-b78d41a78f73" width="800" height="300" /></div>
+<div align=center><img src="https://github.com/ykdlmu/Live-streaming-e-commerce-user-churn-analysis/assets/146841770/3d46f6db-f696-4ac6-9ce8-24d4b51c4498" /></div>
 
 # 四、用户维度特征分析
 （1）城市等级分析
